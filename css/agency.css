@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #f16883;
 }
 
 a:hover {
-  color: #fec503;
+  color: #1b75bc;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #1b75bc !important;
 }
 
 h1,
@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #a3a29f;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #fff;
   text-shadow: none;
 }
 
@@ -108,7 +108,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #212529;
+  background-color: #dbdbdb;
 }
 
 #mainNav .navbar-toggler {
@@ -116,19 +116,19 @@ img::-moz-selection {
   right: 0;
   padding: 13px;
   text-transform: uppercase;
-  color: white;
+  color: #1b75bc;
   border: 0;
-  background-color: #fed136;
+  background-color: #f16883;
   font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #fff;
   font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #fff;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -136,12 +136,12 @@ img::-moz-selection {
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: white;
+  color: #1b75bc;
   font-family: 'Arial', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #fff;
 }
 
 @media (min-width: 992px) {
@@ -162,7 +162,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: #ffa1b4;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -172,7 +172,7 @@ img::-moz-selection {
 
 header.masthead {
   text-align: left;
-  color: white;
+  color: #1b75bc;
   background-image: url("../img/header-bg\ copy.jpg");
   background-repeat: no-repeat;
   background-attachment: Fixed;
