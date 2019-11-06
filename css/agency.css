@@ -18,11 +18,11 @@ a {
 }
 
 a:hover {
-  color: #1b75bc;
+  color: #ee2a7b;
 }
 
 .text-primary {
-  color: #1b75bc !important;
+  color: #ee2a7b !important;
 }
 
 h1,
@@ -98,13 +98,13 @@ img::-moz-selection {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #1b75bc !important;
-  border-color: #1b75bc !important;
+  background-color: #911b4c !important;
+  border-color: #911b4c !important;
   color: white;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgb(255, 255, 255) !important;
 }
 
 #mainNav {
@@ -585,7 +585,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: #ee2a7b;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
